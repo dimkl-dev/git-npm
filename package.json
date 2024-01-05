@@ -1,0 +1,19 @@
+{
+  "name": "git_npm",
+  "version": "1.0.0",
+  "description": "sample git+npm",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimkl-dev/git-npm.git"
+  },
+  "author": "dimkl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimkl-dev/git-npm/issues"
+  },
+  "homepage": "https://github.com/dimkl-dev/git-npm#readme"
+}
